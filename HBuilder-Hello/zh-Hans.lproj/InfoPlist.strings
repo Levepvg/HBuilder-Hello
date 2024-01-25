@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName="服智POS系统";
+NSPhotoLibraryUsageDescription = "您的相册将用于App中为您提供选择图片的服务";
+NSPhotoLibraryAddUsageDescription= "您的相册将用于App中为您提供选择图片的服务";
+NSCameraUsageDescription = "您的摄像头将用于App中为您提供的扫码服务";
